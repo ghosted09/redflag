@@ -1,0 +1,160 @@
+#EXTINF:-1 tvg-logo="https://www.subpng.com/png-n7wxya/download.html" group-title="LABEL",Indonesia TV
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV
+http://id1.indostreamingtv.com/live/sctv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WFT5Xiq.png" group-title="INDONESIA",SCTV HD
+https://kmklive-lh.akamaihd.net/i/sctv_live@577566/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/90/MNC_logo_2015.svg/1200px-MNC_logo_2015.svg.png" group-title="INDONESIA",MNC tv
+https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/CNN_Indonesia.svg/1200px-CNN_Indonesia.svg.png" group-title="INDONESIA",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w666135831_b280000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/A56UnoD.png" group-title="INDONESIA",Indosiar
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDONESIA",Kompas TV
+https://cdn-livetv1.metube.id/hls/kompastv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="INDONESIA",Global TV
+http://id6.indostreamingtv.com/live/tv1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI
+http://id6.indostreamingtv.com/live/rcti/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4KW8Qnr.png" group-title="INDONESIA",RCTI HD
+https://cdn-livetv1.metube.id/hls/rcti_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ox8luDM.png" group-title="INDONESIA",iNews TV
+https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne
+http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne 1
+https://etslive-2-vidio-com.akamaized.net/exp=1584804192~acl=/hls-p/ingest_783_*/*~hmac=4ba5cb5bb235370bf3333f19f9a377043da07511251336f3b35f370b2fc57004/hls-p/ingest_783_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne HD
+https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLugUq9auLbq9TfXL3AfOz0)/dm/3/x619221/s/live-2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne HD 1
+http://id1.indostreamingtv.com/live/tv444/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV
+https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV HD
+https://etslive-2-vidio-com.akamaized.net/exp=1584804172~acl=/hls-p/ingest_777_*/*~hmac=e9d3992769f17d97fd8c3000f91dd08714a0ec45cc152bd4dac07badea1cba3b/hls-p/ingest_777_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV HD
+https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwrtpji0HJTGtA0E8sH-CP8)/dm/3/x75p70w/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7
+https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581041127~acl=/hls-b/ingest_734_*/*~hmac=ff6f0cbd95725e2998cbac70a51b2990adac1ca3d6ffc988a0c80cec98b5846d/hls-b/ingest_734_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7 HD
+https://etslive-2-vidio-com.akamaized.net/exp=1581041127~acl=/hls-p/ingest_734_*/*~hmac=784de507d3929f132cb8d5670ffc82824833d6ebead0c95501522b9763efc564/hls-p/ingest_734_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV
+https://cdn-livetv1.metube.id/hls/transtv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9ESSmBG.png" group-title="INDONESIA",Trans TV HD
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1215711276_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6yIpjUJ.png" group-title="INDONESIA",Net TV HD
+http://45.126.83.51/qwr9ew/s/s08/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="INDONESIA",TVRI HD
+https://cdn-livetv1.metube.id/hls/tvri_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhFh4HV.png" group-title="INDONESIA",ANTV
+https://cdn-livetv1.metube.id/hls/antv_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhFh4HV.png" group-title="INDONESIA",ANTV HD
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhFh4HV.png" group-title="INDONESIA",ANTV HD
+http://id2.indostreamingtv.com/live/tv44/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.subpng.com/png-n7wxya/download.html" group-title="LABEL",Music
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Karaoke Channel
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" group-title="Music",Music Top
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing
+http://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Animation
+http://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Avicii
+http://www.djing.com/tv/session_avicii.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Classic
+http://www.djing.com/tv/classics.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Classics
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Dance Floor
+http://djing.com/tv/dancefloor.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Electro rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing French touch
+https://www.djing.com/tv/session_french-touch.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Hedonist
+http://www.djing.com/tv/session_hedonist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Hits
+http://www.djing.com/tv/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Hot Hot Hot
+http://www.djing.com/tv/buster-poindexter-his-banshees-of-blue-hot-hot-hot/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Hot Hot Hot
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Summer Vibes
+http://www.djing.com/tv/session_summer-vibes.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Underground
+http://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/XQ2vMHd.png" group-title="Music",DJing Wild EDM
+http://www.djing.com/tv/session_wild-edm.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.subpng.com/png-n7wxya/download.html" group-title="LABEL",Movies
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Movies",My Cinema
+http://210.210.155.35/qwr9ew/s/s31/index2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://beta.dens.tv/images/channel-logo/95.jpg" group-title="Movies",My Cinema Channel
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://alchetron.com/cdn/celestial-movies-1c9f0f99-d3a2-4a6e-acdd-de1ec02be11-resize-750.jpeg" group-title="Movies",Celestial Movies
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mncvision.id/userfiles/image/channel/celestial.png" group-title="Movies",Celestial Movies HD
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
