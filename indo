@@ -19,7 +19,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w666135831_b2800
 http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDONESIA",Kompas TV
-https://cdn-livetv1.metube.id/hls/kompastv_480/index.m3u8
+https://stream-06.dc3.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GzpxC_M1EZR9qJg-KuqEhqo)/dm/3/x6pz4sa/d/live-3.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ory3MhB.png" group-title="INDONESIA",Kompas TV HD
+https://stream-06.dc3.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4GzpxC_M1EZR9qJg-KuqEhqo)/dm/3/x6pz4sa/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NvE0OeL.png" group-title="INDONESIA",Global TV
 http://id6.indostreamingtv.com/live/tv1/index.m3u8
@@ -48,10 +51,10 @@ http://id1.indostreamingtv.com/live/tv444/index.m3u8
 https://cdn-livetv1.metube.id/hls/metrotv_480/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV HD
-https://etslive-2-vidio-com.akamaized.net/exp=1584804172~acl=/hls-p/ingest_777_*/*~hmac=e9d3992769f17d97fd8c3000f91dd08714a0ec45cc152bd4dac07badea1cba3b/hls-p/ingest_777_720p/index.m3u8
+https://stream-05.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS5FlNm6gdMKzasdzq_51WdE)/dm/3/x75p70w/d/live-3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GB6gAEG.png" group-title="INDONESIA",MetroTV HD
-https://stream-01.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCSwrtpji0HJTGtA0E8sH-CP8)/dm/3/x75p70w/d/live-3.m3u8
+https://stream-04.sg1.dailymotion.com/sec(CFYS0CyzC0phI1myd5MCS5FlNm6gdMKzasdzq_51WdE)/dm/3/x75p70w/d/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cpSiuF1.png" group-title="INDONESIA",Trans 7
 https://cdn-livetv1.metube.id/hls/trans7_480/index.m3u8
