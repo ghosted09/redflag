@@ -37,10 +37,9 @@ https://cdn-livetv5.metube.id/hls/inewstv_480/index.m3u8
 http://210.210.155.35:80/session/0b808a8c-6c0b-11e9-88f0-c81f66f89318/qwr9ew/s/s105/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne 1
-https://etslive-2-vidio-com.akamaized.net/exp=1584804192~acl=/hls-p/ingest_783_*/*~hmac=4ba5cb5bb235370bf3333f19f9a377043da07511251336f3b35f370b2fc57004/hls-p/ingest_783_720p/index.m3u8
-
+https://stream-04.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybKIpilycyWwoR1gLQMUMNJM)/dm/3/x619221/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne HD
-https://stream-02.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybLugUq9auLbq9TfXL3AfOz0)/dm/3/x619221/s/live-2.m3u8
+https://stream-03.sg1.dailymotion.com/sec(045Msia06uu92p_oLsoybKIpilycyWwoR1gLQMUMNJM)/dm/3/x619221/s/live-2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nmoL4J4.png" group-title="INDONESIA",TVOne HD 1
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
